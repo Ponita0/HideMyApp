@@ -387,7 +387,7 @@ namespace Deceive
 
             }
         }
-
+        //change test
         private void LoadStatus()
         {
             if (File.Exists(_statusFile)) _status = File.ReadAllText(_statusFile) == "mobile" ? "mobile" : "offline";
