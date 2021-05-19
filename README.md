@@ -15,9 +15,9 @@
 
 
 
-
-
-[![Discord](https://discordapp.com/api/guilds/249481856687407104/widget.png?style=shield)](https://discord.gg/bfxdsRC)
+---
+### تقدر تدخل الديسكورد من هنا 
+[![Discord](https://discordapp.com/api/guilds/249481856687407104/widget.png?style=shield)](https://discord.gg/nSNdUNaqdn)
 
 # :tophat: Deceive
 Pretend like you aren't actually feeding your ass off in League of Legends. **Deceive** allows you to mask your online status if you use the new League client.
