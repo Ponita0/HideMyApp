@@ -1,4 +1,21 @@
-![Deceive Logo](http://i.thijsmolendijk.nl/deceive.png)
+# Hide My Azz
+#### برنامج وظيفته انه يتحكم في ظهورك في لول ، بمعنى انه ممكن يخليك تبان اوفلاين  بينما انت اونلاين و بتلعب وبتفيد ب ياسو يا فيدر يا نوب
+# First : تحميل البرنامج 
+ تقدر تحمل البرنامج من [هنا](https://www.facebook.com)
+ طبعا مش محتاج أقولك ان البرنامج أمان خصوصا ان انا عامله اوبن سورس 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [![Discord](https://discordapp.com/api/guilds/249481856687407104/widget.png?style=shield)](https://discord.gg/bfxdsRC)
 
